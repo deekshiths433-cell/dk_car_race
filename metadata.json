@@ -1,0 +1,6 @@
+{
+  "name": "DK Car Race",
+  "description": "3D browser supercar racing game with procedural tracks, realistic physics, deep car customization, repair shop, and procedural engine audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
